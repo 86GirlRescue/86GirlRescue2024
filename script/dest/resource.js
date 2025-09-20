@@ -1,4 +1,4 @@
-var imagePath = "https://page.nmb.baby/images";
+var imagePath = "https://86girlrescue.github.io/86GirlRescue2024/images";
 // var imagePath = "https://cdn.jsdelivr.net/gh/86GirlRescue/86GirlRescue.github.io/images";
 
 window.onload = function() {
@@ -9,7 +9,7 @@ window.onload = function() {
         container.appendChild(img);
     }
 	var link = document.createElement("a");
-	link.href = "https://page.nmb.baby/contact.html";
+	link.href = "https://86girlrescue.github.io/contact.html";
 	link.style["width"] = "100%";
 	link.style["display"] = "block";
 	link.style["box-sizing"] = "border-box";
